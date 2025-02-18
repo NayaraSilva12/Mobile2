@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10px;
+}
+
+.card {
+    background-color: rgb(194, 165, 221);
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin:10px;
+}
